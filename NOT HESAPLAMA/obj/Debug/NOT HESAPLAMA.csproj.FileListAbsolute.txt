@@ -1,0 +1,10 @@
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\bin\Debug\NOT HESAPLAMA.exe.config
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\bin\Debug\NOT HESAPLAMA.exe
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\bin\Debug\NOT HESAPLAMA.pdb
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT HESAPLAMA.csproj.AssemblyReference.cache
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT_HESAPLAMA.Properties.Resources.resources
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT HESAPLAMA.csproj.GenerateResource.cache
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT HESAPLAMA.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT HESAPLAMA.exe
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT HESAPLAMA.pdb
+C:\Users\bugra\Desktop\NOT HESAPLAMA\NOT HESAPLAMA\obj\Debug\NOT_HESAPLAMA.mainPage.resources
